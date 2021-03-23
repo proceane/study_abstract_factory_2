@@ -6,7 +6,7 @@ abstract factory study1
 # Reference
 https://www.tutorialspoint.com/design_pattern/abstract_factory_pattern.htm
 
-# 이전과의 차이점
+## 이전과의 차이점
 - FactoryProducer
   처음 공부했을때는 FactoryProducer에 해당하는 클래스를 만들지 않았음
   Factory에 해당하는 자판기 클래스를 1개만 만들어서 FactoryProducer 필요성을 못 느꼈음
@@ -50,7 +50,7 @@ https://www.tutorialspoint.com/design_pattern/abstract_factory_pattern.htm
   요청자가 받을 최종 객체의 생산주체가 바뀌고, 공장이 단순화될수 있을듯.
 
 
-# 새롭게 알게된 내용
+## 새롭게 알게된 내용
 - equalsIgnoreCase(String str)
   대소문자 무시하고 비교할수 있는 메소드
   
